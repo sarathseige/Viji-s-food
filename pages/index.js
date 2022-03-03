@@ -20,7 +20,7 @@ export default function Home() {
         </p>
         <div className='soon'>
           <h1>
-            Comming Soon!
+            Coming Soon!
           </h1>
         </div>
       </main>
